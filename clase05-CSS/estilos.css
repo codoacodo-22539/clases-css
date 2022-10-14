@@ -1,0 +1,28 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+
+}
+
+h1 {
+  color: blue;
+  font-size: 20px;
+}
+
+.cajita {
+  background-color: blue;
+  height: 100px;
+  width: 500px;
+  border-radius: 10px;
+  border: 10px;
+  border-style: dashed;
+  border-color: brown;
+
+}
+
+
+
+.convertirABloque{
+    display: none;
+    background-color: red;
+}

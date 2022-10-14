@@ -1,0 +1,21 @@
+body {
+
+    background-image: url();
+
+}
+
+.container {
+
+    width: 960px;
+    margin: 0 auto;
+}
+
+ul {
+
+    margin-top: 20px;
+}
+
+header {
+
+    border-bottom: 1px;
+}

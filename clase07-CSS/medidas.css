@@ -1,0 +1,43 @@
+*{
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+img{
+}
+
+/*Medidas Relativas*/
+
+.rem{
+    font-size: 1rem;
+}
+
+
+.rem2{
+    font-size: 0.5rem;
+}
+
+
+section{
+    font-size: 2em;
+}
+.caja{
+    font-size: 2em;
+}
+.em{
+    font-size: 0.5em;
+}
+
+
+
+/*Medidas Absolutas*/
+.px{
+    font-size: 10px;
+}
+
+.cm{
+    font-size: 2cm;
+}
+
+.mm{
+    font-size: 20mm;
+}

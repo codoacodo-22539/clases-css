@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.image-container {
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+}
+
+img{
+    width: 100%;
+    
+}

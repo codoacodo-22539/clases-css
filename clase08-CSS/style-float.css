@@ -1,0 +1,17 @@
+
+ 
+
+.div1{
+   background-color: aqua;
+   float: left;
+   height: 200px;
+ }
+
+.div2{
+    background-color: blue;
+    float: right;
+    height: 200px;
+    overflow: hidden;
+ 
+ }
+ 

@@ -1,0 +1,12 @@
+.texto{
+    padding-bottom: 20000px;
+}
+
+.fixed{
+    position: fixed;
+    background-color: brown;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}

@@ -1,0 +1,15 @@
+.div1{
+    position: relative;
+    background-color: red;
+    z-index: 0;
+}
+.div2{
+    position: relative;
+    background-color: blue;
+    z-index: 0;
+}
+.div3{
+    position: relative;
+    background-color: green;
+    z-index: 0;
+}
